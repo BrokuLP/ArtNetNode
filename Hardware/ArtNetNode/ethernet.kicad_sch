@@ -419,7 +419,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b1110a18-3d67-4508-b990-46a6be88be3c")
-		(property "Reference" "J9"
+		(property "Reference" "J2"
 			(at 313.69 124.46 0)
 			(effects
 				(font
@@ -435,7 +435,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ARJM11D7104ABEW2"
+		(property "Footprint" "SamacSys_Parts:ARJM11D7104ABEW2"
 			(at 326.39 227 0)
 			(effects
 				(font
@@ -565,7 +565,7 @@
 		(instances
 			(project ""
 				(path "/5fe0a06d-00fb-4ef8-80af-4dd06c5496d9/d72acdc1-f649-4ceb-9a30-42cb477c4dd7"
-					(reference "J9")
+					(reference "J2")
 					(unit 1)
 				)
 			)

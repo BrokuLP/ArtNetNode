@@ -1115,7 +1115,7 @@
 	)
 	(symbol
 		(lib_id "MCU_RaspberryPi:RP2040")
-		(at 151.13 152.4 0)
+		(at 181.61 143.51 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1123,8 +1123,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b734fd12-7e9a-4f9f-99ad-b569fdb53aa9")
-		(property "Reference" "U9"
-			(at 153.3241 196.85 0)
+		(property "Reference" "U5"
+			(at 183.8041 187.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1133,7 +1133,7 @@
 			)
 		)
 		(property "Value" "RP2040"
-			(at 153.3241 199.39 0)
+			(at 183.8041 190.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1142,7 +1142,7 @@
 			)
 		)
 		(property "Footprint" "Package_DFN_QFN:QFN-56-1EP_7x7mm_P0.4mm_EP3.2x3.2mm"
-			(at 151.13 152.4 0)
+			(at 181.61 143.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1151,7 +1151,7 @@
 			)
 		)
 		(property "Datasheet" "https://datasheets.raspberrypi.com/rp2040/rp2040-datasheet.pdf"
-			(at 151.13 152.4 0)
+			(at 181.61 143.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1160,7 +1160,7 @@
 			)
 		)
 		(property "Description" "A microcontroller by Raspberry Pi"
-			(at 151.13 152.4 0)
+			(at 181.61 143.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1342,7 +1342,7 @@
 		(instances
 			(project ""
 				(path "/5fe0a06d-00fb-4ef8-80af-4dd06c5496d9/efc89bbc-2463-427a-9fa7-bd6145ec8808"
-					(reference "U9")
+					(reference "U5")
 					(unit 1)
 				)
 			)

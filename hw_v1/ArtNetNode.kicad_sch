@@ -1,0 +1,784 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "26be3687-b307-4fe4-a30d-21ea1dffd79c")
+	(paper "A3")
+	(lib_symbols)
+	(wire
+		(pts
+			(xy 304.8 130.81) (xy 317.5 130.81)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "034b28c1-0b19-46d4-b250-f5a462fee5b3")
+	)
+	(wire
+		(pts
+			(xy 269.24 73.66) (xy 256.54 73.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "05f73c6b-dfaf-4aac-bd66-9179cc0e0c29")
+	)
+	(wire
+		(pts
+			(xy 304.8 85.09) (xy 317.5 85.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "32339177-533e-413b-b7d0-a50978bd5990")
+	)
+	(wire
+		(pts
+			(xy 269.24 66.04) (xy 256.54 66.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "35d5e279-9dbd-435f-bf82-7494690ce84a")
+	)
+	(wire
+		(pts
+			(xy 304.8 123.19) (xy 317.5 123.19)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3ae56b35-a1bf-44f7-a291-697d482173d4")
+	)
+	(wire
+		(pts
+			(xy 304.8 92.71) (xy 317.5 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3c55c723-824b-4e41-8d7e-373ef262a96e")
+	)
+	(wire
+		(pts
+			(xy 304.8 66.04) (xy 317.5 66.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6585ac05-2039-46ad-a858-9ee3eb65b4d4")
+	)
+	(wire
+		(pts
+			(xy 304.8 128.27) (xy 317.5 128.27)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "664a53c8-75b9-40ef-a31e-8e0607cf9f0c")
+	)
+	(wire
+		(pts
+			(xy 304.8 104.14) (xy 317.5 104.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "68fe1981-592f-4fc5-b3e5-268683e2fe79")
+	)
+	(wire
+		(pts
+			(xy 304.8 87.63) (xy 317.5 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6cee33aa-3e95-4960-a837-b11836831fd6")
+	)
+	(wire
+		(pts
+			(xy 304.8 125.73) (xy 317.5 125.73)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "74ef741a-2d71-4ee1-acdd-675c8a9402cb")
+	)
+	(wire
+		(pts
+			(xy 269.24 71.12) (xy 256.54 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "75f4a7ea-1385-4996-8974-425a699d04c6")
+	)
+	(wire
+		(pts
+			(xy 304.8 68.58) (xy 317.5 68.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7635c9c7-d4a8-4a92-a5a8-91bcca90588e")
+	)
+	(wire
+		(pts
+			(xy 304.8 90.17) (xy 317.5 90.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7e3b23e8-f184-4aac-baec-bf9b6720d144")
+	)
+	(wire
+		(pts
+			(xy 304.8 111.76) (xy 317.5 111.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "87eb82a2-d921-4774-af1e-ecc8e1974e9e")
+	)
+	(wire
+		(pts
+			(xy 304.8 73.66) (xy 317.5 73.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b6128b54-9161-46cf-af19-8cb3e913b20e")
+	)
+	(wire
+		(pts
+			(xy 304.8 106.68) (xy 317.5 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bd5b78f3-b54f-46ce-9cc6-af12f769e90a")
+	)
+	(wire
+		(pts
+			(xy 304.8 71.12) (xy 317.5 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c4518f15-6a45-45c7-81e6-d607b975948e")
+	)
+	(wire
+		(pts
+			(xy 304.8 109.22) (xy 317.5 109.22)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c5c48b26-5c4b-4161-84b6-d2dc931130fe")
+	)
+	(wire
+		(pts
+			(xy 269.24 68.58) (xy 256.54 68.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c6ae5631-3923-4df3-a4a9-4ca26c504d39")
+	)
+	(label "DMX1_RX_D"
+		(at 304.8 92.71 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "0153b2b9-1210-479b-8d47-3bb32ec2877b")
+	)
+	(label "DMX1_RX_E"
+		(at 304.8 90.17 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "09f635c7-61c5-4777-ba10-e063afc82ea9")
+	)
+	(label "DMX3_RX_E"
+		(at 304.8 128.27 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "10ca84b0-2e3e-43fd-b091-d8448bf79ed0")
+	)
+	(label "DMX2_RX_D"
+		(at 304.8 111.76 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "339ea366-7321-4f0c-93cb-4954a2b5adc5")
+	)
+	(label "DMX0_TX_E"
+		(at 269.24 68.58 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "5b4743bf-be2b-4ef6-bc05-2297b6290387")
+	)
+	(label "DMX0_RX_E"
+		(at 304.8 71.12 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "650249c1-53ac-49c2-8dc5-f644cac88440")
+	)
+	(label "DMX2_TX_E"
+		(at 304.8 106.68 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "6e0dcc31-97e0-4697-8355-c60a5338160a")
+	)
+	(label "DMX0_RX_D"
+		(at 269.24 73.66 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "83d5957e-9883-4d5f-a84d-0adf9c178eac")
+	)
+	(label "DMX0_RX_D"
+		(at 304.8 73.66 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "90edcbc1-e904-4905-a450-44cec5a51411")
+	)
+	(label "DMX2_RX_E"
+		(at 304.8 109.22 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "9116bf99-a4de-4a9c-a79b-cba614248a3f")
+	)
+	(label "DMX0_TX_D"
+		(at 304.8 66.04 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "9c95c14c-4eca-4518-a0d7-0f205c55baa8")
+	)
+	(label "DMX1_TX_D"
+		(at 304.8 85.09 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "9fd75571-5f6c-4cc4-9e45-af689e1349bc")
+	)
+	(label "DMX1_TX_E"
+		(at 304.8 87.63 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "b153bc66-05ec-4aea-91a4-91b47b3e5601")
+	)
+	(label "DMX3_TX_D"
+		(at 304.8 123.19 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "b9f1d728-3aa0-4ab9-99c4-559369d73c3b")
+	)
+	(label "DMX3_TX_E"
+		(at 304.8 125.73 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "c4ab790f-fa37-4308-906e-2fc402fa84c2")
+	)
+	(label "DMX2_TX_D"
+		(at 304.8 104.14 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "c8071cde-130f-4ff2-848d-d0310bfbb14c")
+	)
+	(label "DMX0_TX_D"
+		(at 269.24 66.04 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "d3fabd0f-bdd4-4294-acb3-4f5ba4dff204")
+	)
+	(label "DMX3_RX_D"
+		(at 304.8 130.81 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "d892d523-306e-41e3-b6a1-ebb4989bdd1f")
+	)
+	(label "DMX0_TX_E"
+		(at 304.8 68.58 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "dbf4d265-4442-45ee-8811-61e127123e4b")
+	)
+	(label "DMX0_RX_E"
+		(at 269.24 71.12 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "e25ecc7c-d892-4456-b3cb-4fac281d2598")
+	)
+	(sheet
+		(at 317.5 82.55)
+		(size 44.45 12.7)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "004d0632-12ce-4822-88c2-feb733f69104")
+		(property "Sheetname" "DMX_CH1"
+			(at 317.5 81.8384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Schematics/DMX_Interface.kicad_sch"
+			(at 317.5 95.8346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "TX_E" input
+			(at 317.5 87.63 180)
+			(uuid "080a6935-daac-4b12-bce9-567d11629007")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "RX_D" output
+			(at 317.5 92.71 180)
+			(uuid "be10751d-8f0f-482a-ae49-60dd1ffe5f84")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "RX_E" input
+			(at 317.5 90.17 180)
+			(uuid "5b352316-27fa-4629-9044-68dd1e4c8b75")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "TX_D" input
+			(at 317.5 85.09 180)
+			(uuid "e67d2e8a-f519-4cba-b418-f6dbba2c17c7")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "ArtNetNode"
+				(path "/26be3687-b307-4fe4-a30d-21ea1dffd79c"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 215.9 63.5)
+		(size 38.1 69.85)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "30a47392-aaca-48b1-8613-18406fb64a2e")
+		(property "Sheetname" "MCU"
+			(at 215.9 62.7884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Schematics/RP2350B.kicad_sch"
+			(at 215.9 133.9346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "ArtNetNode"
+				(path "/26be3687-b307-4fe4-a30d-21ea1dffd79c"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 317.5 120.65)
+		(size 44.45 12.7)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "549952ae-680b-427c-9c9b-945f42022c1e")
+		(property "Sheetname" "DMX_CH3"
+			(at 317.5 119.9384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Schematics/DMX_Interface.kicad_sch"
+			(at 317.5 133.9346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "TX_E" input
+			(at 317.5 125.73 180)
+			(uuid "27626d7c-cb8b-4742-be9b-896ccdb4104a")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "RX_D" output
+			(at 317.5 130.81 180)
+			(uuid "44364a4b-aac6-46fa-86be-e7dfbfee098b")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "RX_E" input
+			(at 317.5 128.27 180)
+			(uuid "3f892cb3-24bd-4910-99e8-a05fae09c98f")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "TX_D" input
+			(at 317.5 123.19 180)
+			(uuid "35dec89e-f676-491a-90db-e1d95f65be59")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "ArtNetNode"
+				(path "/26be3687-b307-4fe4-a30d-21ea1dffd79c"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 317.5 63.5)
+		(size 44.45 12.7)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "59ba4881-1fd5-4f88-8d74-1588a78b796a")
+		(property "Sheetname" "DMX_CH0"
+			(at 317.5 62.7884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Schematics/DMX_Interface.kicad_sch"
+			(at 317.5 76.7846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "TX_E" input
+			(at 317.5 68.58 180)
+			(uuid "c7fbdd14-44d1-4405-bbbd-e90e9fb1adc3")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "RX_D" output
+			(at 317.5 73.66 180)
+			(uuid "4f8aa863-f57c-43e1-bbe7-f7616e0d6bfb")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "RX_E" input
+			(at 317.5 71.12 180)
+			(uuid "2ea61332-dc9f-42ef-80da-bd3c63e38735")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "TX_D" input
+			(at 317.5 66.04 180)
+			(uuid "4a03db9d-89a3-4cf6-b749-fc643a099025")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "ArtNetNode"
+				(path "/26be3687-b307-4fe4-a30d-21ea1dffd79c"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 317.5 101.6)
+		(size 44.45 12.7)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "9350231a-eb2f-43b2-bfd8-ce4a5cb8ce1a")
+		(property "Sheetname" "DMX_CH2"
+			(at 317.5 100.8884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Schematics/DMX_Interface.kicad_sch"
+			(at 317.5 114.8846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "TX_E" input
+			(at 317.5 106.68 180)
+			(uuid "3426dc53-2420-4ac2-9273-55e225af8715")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "RX_D" output
+			(at 317.5 111.76 180)
+			(uuid "96b7b79e-7af4-44d5-85e1-5b4a96808557")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "RX_E" input
+			(at 317.5 109.22 180)
+			(uuid "ba375c80-c54e-4189-8400-d53dec00ee42")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "TX_D" input
+			(at 317.5 104.14 180)
+			(uuid "7a5af20c-317e-4f90-a810-be6e9ba723d7")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "ArtNetNode"
+				(path "/26be3687-b307-4fe4-a30d-21ea1dffd79c"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)

@@ -1,9 +1,0 @@
-[submodule "lib/Artnet"]
-	path = lib/Artnet
-	url = https://github.com/BrokuLP/Artnet
-[submodule "lib/PIO_DMX512A"]
-	path = lib/PIO_DMX512A
-	url = https://github.com/BrokuLP/PIO_DMX512A
-[submodule "lib/OLE_USB_PIO"]
-	path = lib/OLE_USB_PIO
-	url = https://github.com/BrokuLP/OLE_USB_PIO

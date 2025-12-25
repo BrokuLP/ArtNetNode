@@ -48,10 +48,16 @@
         "silk_text_thickness": 0.1,
         "silk_text_upright": false,
         "zones": {
-          "min_clearance": 0.5
+          "min_clearance": 0.0
         }
       },
-      "diff_pair_dimensions": [],
+      "diff_pair_dimensions": [
+        {
+          "gap": 0.0,
+          "via_gap": 0.0,
+          "width": 0.0
+        }
+      ],
       "drc_exclusions": [],
       "meta": {
         "version": 2
@@ -117,12 +123,12 @@
       },
       "rules": {
         "max_error": 0.005,
-        "min_clearance": 0.0,
-        "min_connection": 0.0,
+        "min_clearance": 0.16,
+        "min_connection": 0.16,
         "min_copper_edge_clearance": 0.5,
         "min_groove_width": 0.0,
-        "min_hole_clearance": 0.25,
-        "min_hole_to_hole": 0.25,
+        "min_hole_clearance": 0.2,
+        "min_hole_to_hole": 0.3,
         "min_microvia_diameter": 0.2,
         "min_microvia_drill": 0.1,
         "min_resolved_spokes": 2,
@@ -130,8 +136,8 @@
         "min_text_height": 0.8,
         "min_text_thickness": 0.08,
         "min_through_hole_diameter": 0.3,
-        "min_track_width": 0.0,
-        "min_via_annular_width": 0.1,
+        "min_track_width": 0.16,
+        "min_via_annular_width": 0.2,
         "min_via_diameter": 0.5,
         "solder_mask_to_copper_clearance": 0.0,
         "use_height_for_length_calcs": true
@@ -180,7 +186,13 @@
           "td_width_to_size_filter_ratio": 0.9
         }
       ],
-      "track_widths": [],
+      "track_widths": [
+        0.0,
+        0.2,
+        0.3,
+        0.4,
+        0.5
+      ],
       "tuning_pattern_settings": {
         "diff_pair_defaults": {
           "corner_radius_percentage": 80,
@@ -207,7 +219,12 @@
           "spacing": 0.6
         }
       },
-      "via_dimensions": [],
+      "via_dimensions": [
+        {
+          "diameter": 0.0,
+          "drill": 0.0
+        }
+      ],
       "zones_allow_external_fillets": false
     },
     "ipc2581": {
@@ -677,16 +694,52 @@
       "DMX_CH0"
     ],
     [
-      "004d0632-12ce-4822-88c2-feb733f69104",
+      "90c2b810-7901-48eb-a81d-c78b9909e98f",
       "DMX_CH1"
     ],
     [
-      "9350231a-eb2f-43b2-bfd8-ce4a5cb8ce1a",
+      "aad86709-a549-4605-bbc8-252d9b49458e",
       "DMX_CH2"
     ],
     [
-      "549952ae-680b-427c-9c9b-945f42022c1e",
+      "1f35c5f2-70ec-4d4d-b940-6e5b6711f25b",
       "DMX_CH3"
+    ],
+    [
+      "0c0b0718-6e56-45d6-b138-48bcde37b092",
+      "DMX_CH4"
+    ],
+    [
+      "7bf3d454-8472-4c0f-a996-4407ae6f22db",
+      "DMX_CH5"
+    ],
+    [
+      "6f5d9465-5dc0-4554-8549-f55c1254275f",
+      "DMX_CH6"
+    ],
+    [
+      "7b8e6202-8609-4fb5-a1f6-4c994e07fcc9",
+      "DMX_CH7"
+    ],
+    [
+      "79524299-15d4-48cd-8510-c657230d3710",
+      "DMX_CH8"
+    ],
+    [
+      "f08a6a4a-b925-4d54-ad38-07f61f025a05",
+      "DMX_CH9"
+    ],
+    [
+      "de52b2e7-59b9-4016-965b-4ec3a6971c26",
+      "DMX_CH10"
+    ],
+    [
+      "12a7e5d1-51d9-4fc9-9aa8-aa9d3d53af52",
+      "DMX_CH11"
+    ],
+    [
+      "e1311d5e-4937-402a-aa0b-9125a7159203",
+      "Supply"
     ]
   ],
   "text_variables": {}

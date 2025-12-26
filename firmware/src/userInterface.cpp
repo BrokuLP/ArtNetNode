@@ -11,3 +11,11 @@
 
 #include <userInterface.hpp>
 #include <stdint.h>
+
+UserInterface::UserInterface(){
+
+}
+
+UserInterface::~UserInterface(){
+    
+}

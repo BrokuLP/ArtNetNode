@@ -9,10 +9,14 @@
  * 
  */
 
+#include <userInterface.hpp>
+#include <stdint.h>
+
 
 
 int main(int argc, char const *argv[]) {
     
+    UserInterface PrimaryInterface = UserInterface();
 
     while (true) {
         

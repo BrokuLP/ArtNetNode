@@ -16,9 +16,9 @@
 class UserInterface
 {
 private:
-    /* data */
+
 public:
-    UserInterface(/* args */);
+    UserInterface();
     ~UserInterface();
 };
 

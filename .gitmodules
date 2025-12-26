@@ -4,3 +4,6 @@
 [submodule "firmware/lib/pico-sdk"]
 	path = firmware/lib/pico-sdk
 	url = https://github.com/raspberrypi/pico-sdk
+[submodule "firmware/lib/Artnet"]
+	path = firmware/lib/Artnet
+	url = https://github.com/BrokuLP/Artnet

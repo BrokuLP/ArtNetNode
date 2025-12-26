@@ -1,0 +1,3 @@
+[submodule "firmware/lib/PIO_DMX512A"]
+	path = firmware/lib/PIO_DMX512A
+	url = https://github.com/BrokuLP/PIO_DMX512A

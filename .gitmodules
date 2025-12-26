@@ -1,3 +1,6 @@
 [submodule "firmware/lib/PIO_DMX512A"]
 	path = firmware/lib/PIO_DMX512A
 	url = https://github.com/BrokuLP/PIO_DMX512A
+[submodule "firmware/lib/pico-sdk"]
+	path = firmware/lib/pico-sdk
+	url = https://github.com/raspberrypi/pico-sdk
